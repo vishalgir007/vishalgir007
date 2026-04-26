@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🧠 AI/ML Engineer passionate about building **production-ready systems**
 - ⚙️ Strong in **DSA, Core CS & scalable backend architectures**
-- 🎯 Targeting **SDE + ML Engineer roles (4–6 LPA and beyond)**
+- 🎯 Targeting **SDE + ML Engineer roles **
 - 💡 I focus on **real-world problem solving with efficient code**
 - 📌 Open to **AI/ML & Software Engineering opportunities**
 
