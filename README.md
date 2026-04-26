@@ -1,6 +1,5 @@
 
-## 📌 About Me
-- 💫 Hi, I'm Vishal Goswami 👋
+# 💫 Hi, I'm Vishal Goswami 👋 
 - 🧠 AI & Machine Learning Enthusiast
 - 🏗️ Turning ideas into scalable tech products
 - 💡 Strong in DSA, Core CS & Model Optimization
