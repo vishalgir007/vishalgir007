@@ -23,12 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🤖 **AI Resume Analyzer** – NLP + LLM-based resume evaluation system  
-- 📈 **Stock Price Predictor** – LSTM-based time series forecasting  
-- 🧠 **Image Classifier** – CNN model using TensorFlow  
-
-👉 *Check pinned repositories for detailed implementations*
 
 
 ## 📊 GitHub Stats & Trophies
