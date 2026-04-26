@@ -1,31 +1,36 @@
-# 💫 Hi, I'm Vishal Goswami 👋 
-🚀 AI/ML Engineer | Backend Developer  
+# 💫 Hi, I'm Vishal Goswami 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Backend+Developer;DSA+%7C+System+Design+Enthusiast;Building+Scalable+Tech+Products" />
+</p>
 
-- 🧠 Building production-ready ML systems  
-- ⚙️ Strong in DSA, Core CS & system design  
-- 🎯 Focused on AI Engineering + scalable backend systems  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishalgir007&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
+---
 
-## 🧠 My Focus Areas
-- 🔭 Currently working on: Production-ready ML projects  
-- 🌱 Learning: Deep Learning, LLM Fine-tuning, Backend & System Design  
-- 🎯 Goal: Crack top tech roles & build impactful AI products  
-- 💡 Interested in solving real-world problems using efficient & scalable code  
-- 📌 Open to AI/ML & Software Engineering opportunities  
+## 🚀 About Me
+- 🧠 AI/ML Engineer passionate about building **production-ready systems**
+- ⚙️ Strong in **DSA, Core CS & scalable backend architectures**
+- 🎯 Targeting **SDE + ML Engineer roles (4–6 LPA and beyond)**
+- 💡 I focus on **real-world problem solving with efficient code**
+- 📌 Open to **AI/ML & Software Engineering opportunities**
 
+---
+
+## 🧠 Current Focus
+- Deep Learning & LLM Fine-tuning  
+- Backend Development + System Design  
+- Building scalable ML pipelines  
+
+---
 
 ## 🚀 Featured Projects
-- 🤖 AI Resume Analyzer – Built using NLP & LLM fine-tuning  
-- 📈 Stock Price Predictor – Time-series forecasting using LSTM  
-- 🧠 Image Classifier – CNN-based model using TensorFlow  
+- 🤖 **AI Resume Analyzer** – NLP + LLM-based resume evaluation system  
+- 📈 **Stock Price Predictor** – LSTM-based time series forecasting  
+- 🧠 **Image Classifier** – CNN model using TensorFlow  
 
-👉 Explore my repositories to see detailed implementations  
-
-
-## 🏆 Achievements
-- Solved 400+ DSA problems across platforms  
-- Built multiple ML & full-stack projects  
-- Strong fundamentals in OS, DBMS, CN & OOP  
+👉 *Check pinned repositories for detailed implementations*
 
 
 ## 📊 GitHub Stats & Trophies
@@ -39,6 +44,7 @@
   <img src="https://trophy.ryglcloud.net/?username=vishalgir007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishal goswami's GitHub Trophies" />
 </p>
 
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -74,6 +80,7 @@
 ![Top language](https://stats.pphat.top/languages?username=vishalgir007)
 <br/>
 
+---
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -91,6 +98,7 @@
   </a>
 </p>
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -101,5 +109,5 @@
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;"></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
